@@ -158,8 +158,8 @@ export const projectinfo=[
         title:"My Portfolio",
         description:"A personal portfolio website showcasing my projects, skills, and experiences. Built with Next.js, Tailwind CSS, and Typescript. Features a responsive design, smooth animations, and a clean layout to highlight my work and achievements.",
         image:"/assets/projects/myportfolioimg.png",
-        purl:"https://github.com/auraexe25/Todolist",
-        durl:"https://todolist-cyan-psi.vercel.app",
+        purl:"https://github.com/auraexe25/Portfolio",
+        durl:"https://portfolio-eight-rose-30.vercel.app/",
 
     }
 ]
