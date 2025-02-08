@@ -47,7 +47,7 @@ const AboutCard = ({ aboutInfo }: { aboutInfo: AboutInfoProps }) => {
 
 const AboutMe = () => {
   return (
-    <div className="bg-[url('/assets/aboutbg2.jpg')] bg-cover bg-center">
+    <div className="bg-[url('/assets/aboutbg2.jpg')] bg-cover bg-center scroll-smooth" id = "about">
       
       <h1 className=" pt-10 sm:text-xl md:text-6xl text-white font-heading text-center">
         About me
