@@ -38,7 +38,7 @@ const Tech = () => {
             <FaChevronLeft />
             </button>
         
-            <div className="flex gap-10 overflow-hidden w-full justify-center">
+            <div className="flex md:gap-10 overflow-hidden w-full justify-center">
             {techStack.slice(currentIndex, currentIndex + itemsPerPage).map((icon, index) => (
                 <div
                 key={index}
