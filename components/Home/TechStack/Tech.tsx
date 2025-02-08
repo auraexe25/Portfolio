@@ -29,7 +29,7 @@ const Tech = () => {
   };
 
   return (
-    <div className='w-full pt-[4vh] md:pt-[12vh] pb-[12vh] h-full bg-gradient-to-br from-black to-[#27004d] relative '>
+    <div className='w-full pt-[4vh] md:pt-[12vh] pb-[12vh] h-full bg-gradient-to-br from-black to-[#27004d] relative ' id="techstack">
      <div className="flex flex-col w-full h-full mx-auto">
      <h1 className=' md:pl-[10rem] pl-8 text-3xl sm:text-xl md:text-6xl font-heading text-white font-medium md:leading-[3.5rem] xl:leading-[4rem]'>Tech Stack</h1>
             <div className="relative flex flex-col items-center justify-center rounded-full mt-4 py-10 bg-gradient-to-r from-blue-900 to-purple-900 ">

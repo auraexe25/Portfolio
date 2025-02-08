@@ -5,7 +5,7 @@ import Link from 'next/link';
 
 const ContactInfo = () => {
     return (
-        <div className="flex flex-col md:flex-row items-center justify-between bg-gradient-to-br from-black to-[#27004d] p-4 md:p-16 shadow-lg w-full">
+        <div className="flex flex-col md:flex-row items-center justify-between bg-gradient-to-br from-black to-[#27004d] p-4 md:p-16 shadow-lg w-full " id="contact">
             <div className="flex flex-col text-left text-white max-w-2xl w-full md:w-1/2">
                 <h2 className="text-3xl md:text-5xl font-bold">
                     {contactinfo.title}
