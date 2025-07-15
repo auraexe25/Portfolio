@@ -1,6 +1,6 @@
 export const Baseinfo={
     name:"Veena",
-    description:"A curious learner in tech community passionate about building efficient solutions, solving problems, and continuously growing. With a strong foundation in web development and data structures and algorithms (DSA), I am now exploring the realms of AI/ML and am always eager to learn and grow. Reach out to me!",
+    description:"I am a developer who blends code and creativity to craft real-world impact. Whether I’m building scalable websites, participating in hackathons, or leading tech clubs — I bring curiosity, innovation and code together to solve meaningful problems. With a strong grip on web dev, DSA, and emerging tools like AI, I’m constantly exploring new challenges and innovations. Reach out to me!",
     profilepic:"/assets/hero3.jpeg",
 };
 
