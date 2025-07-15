@@ -32,6 +32,11 @@ const Footer = () => {
                         <Image src="/assets/footer/x.png" alt="X" width={40} height={40} />
                     </div>
                 </Link>
+                <Link href="https://medium.com/@veenasahu195" target="_blank">
+                    <div className="bg-white p-2 rounded-full">
+                        <Image src="/assets/footer/medium.webp" alt="X" width={40} height={40} />
+                    </div>
+                </Link>
             </div>
             <p className="text-lg mt-4 text-gray-400 mb-20">© 2025. All rights reserved</p>
         </div>
