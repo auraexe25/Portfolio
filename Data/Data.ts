@@ -20,7 +20,7 @@ export const aboutInfo=[
         subtitle:"National Institute of Technology, Rourkela",
         icon: "assets/education-cap.svg",
         iconbg:"#19062b",
-        datas:"Currrently, a dedicated student at NIT Rourkela, where I am pursuing a degree in Metallurgical and Materials Engineering. My interest in tech has led me to explore the broader landscape of technology.I am an active member of the GDSC NITR chapter, where I collaborate with like-minded peers to explore and contribute to innovative technical projects and events. In addition to my studies, I am also a member of the institute's basketball team, fostering teamwork and resilience both on and off the court. These engagements enrich my university experience and fuel my enthusiasm for learning and collaboration",
+        datas:"I'm a Bachelor of Technology student at NIT Rourkela with a growing interest in technology and development. Over time, I've found myself drawn to building things, learning by doing, and being part of communities that support that journey. Through my involvement with the Google Developer Student Clubs (GDSC) on campus and AWS Cloud Club, I’ve had the chance to work on projects, contribute to events, and collaborate with others who are equally eager to learn and grow. It's helped me explore different areas of tech and develop skills beyond the classroom. Outside of academics, I’m also a member of the institute basketball team. Playing regularly has taught me a lot about teamwork, consistency, and staying focused — lessons that often carry over into other parts of life too.Together, these experiences continue to shape how I learn, build, and work with others — and I look forward to seeing where they take me next.",
 
     },
 
@@ -30,7 +30,7 @@ export const aboutInfo=[
         subtitle:"National Institute of Technology, Rourkela",
         icon: "assets/ai.svg",
         iconbg:"#19062b",
-        datas:"My technical journey has been marked by a strong foundation in problem-solving, with over 400+ DSA questions solved on various competitive programming platforms. I have developed proficiency in web development technologies along with a solid understanding of HTML, CSS, and JavaScript fundamentals. In the AI/ML domain, I am actively learning Python and exploring machine learning concepts through online courses and hands-on projects."
+        datas:"My technical journey has been shaped by a strong focus on problem-solving, with over 500+ DSA questions solved across platforms- LeetCode, Codechef and Codeforces. Alongside this, I’ve gained hands-on experience in full-stack web development by building and contributing to projects using technologies like React.js, Next.js, Tailwind CSS, Node.js, and MongoDB.I’ve worked on real-world applications, including the official GDSC NIT Rourkela website, an AI-powered travel recommendation platform, and an intelligent CI/CD workflow builder, each helping me deepen my understanding of scalable web architectures and modern development tools. In parallel, I’m actively exploring the AI/ML space — learning Python, experimenting with Gemini API, and working on projects that involve intelligent decision-making and recommendation systems."
     }
 ]
 
@@ -59,7 +59,7 @@ export const skillsinfo=[
     {
         id:4,
         title:"Problem-Solving",
-        description: "I have a strong foundation in Data Structures and Algorithms (DSA) and have solved over 350+ problems on various competitive programming platforms. I enjoy tackling challenging problems and developing efficient solutions through logical reasoning and algorithmic thinking. I am constantly honing my problem-solving skills through practice and participation in coding contests to stay sharp and competitive.",
+        description: "I have a strong foundation in Data Structures and Algorithms (DSA) and have solved over 500+ problems on various competitive programming platforms. I enjoy tackling challenging problems and developing efficient solutions through logical reasoning and algorithmic thinking. I am constantly honing my problem-solving skills through practice and participation in coding contests.",
         icon:"/assets/hashtag.png"
     }
 
@@ -121,17 +121,27 @@ export const techstackinfo=[
         id:11,
         title:"Firebase",
         icon:"/assets/firebase.png",
-    }
+    },
+    {
+        id:12,
+        title:"AWS",
+        icon:"/assets/AWS.png",
+    },
+    {
+        id:13,
+        title:"GCP",
+        icon:"/assets/GCP.webp",
+    },
 ]
 
 export const projectinfo=[
     {
         id:1,
-        title:"To-do List App",
-        description:"A simple to-do list app built using React.js and Tailwind CSS. Users can add, delete, and mark tasks as completed. The app features a clean and intuitive user interface, making it easy to manage tasks efficiently.",
-        image:"/assets/projects/todoproject.png",
-        purl:"https://github.com/auraexe25/Todolist",
-        durl:"https://todolist-cyan-psi.vercel.app",
+        title:"CI/CD Genie",
+        description:"An intelligent workflow builder that makes creating and managing continuous integration and continuous delivery pipelines effortless. With an intuitive drag-and-drop interface, repository analysis, and multi-platform support, it streamlines the DevOps process for development teams of all sizes",
+        image:"/assets/projects/cicd.png",
+        purl:"https://github.com/auraexe25/CI-CD-Genie",
+        durl:"https://github.com/auraexe25/CI-CD-Genie",
 
     },
 
@@ -161,7 +171,17 @@ export const projectinfo=[
         purl:"https://github.com/auraexe25/Portfolio",
         durl:"https://portfolio-eight-rose-30.vercel.app/",
 
-    }
+    },
+     {
+        id:5,
+        title:"To-do List App",
+        description:"A simple to-do list app built using React.js and Tailwind CSS. Users can add, delete, and mark tasks as completed. The app features a clean and intuitive user interface, making it easy to manage tasks efficiently.",
+        image:"/assets/projects/todoproject.png",
+        purl:"https://github.com/auraexe25/Todolist",
+        durl:"https://todolist-cyan-psi.vercel.app",
+
+    },
+
 ]
 
 export const contactinfo={

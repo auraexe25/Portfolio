@@ -13,7 +13,10 @@ const techStack = [
   'react.png',
   'css.png',
   'mongo-db.png',
-  'git.png'
+  'git.png',
+  'AWS.png',
+  'GCP.webp'
+
 ];
 
 const Tech = () => {
