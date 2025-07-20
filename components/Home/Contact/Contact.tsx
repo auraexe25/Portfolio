@@ -36,11 +36,14 @@ const ContactInfo = () => {
 
                 {/* CTA Button */}
                 <a
-                    href="mailto:veenasahu195@gmail.com"
-                    className="mt-6 md:mt-8 bg-[#6d5efb] text-white py-3 md:py-4 px-4 text-lg md:text-xl font-medium rounded-lg hover:bg-blue-900 hover:border hover:border-white inline-block w-fit"
+                href="https://mail.google.com/mail/?view=cm&fs=1&to=veenasahu195@gmail.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="mt-6 md:mt-8 bg-[#6d5efb] text-white py-3 md:py-4 px-4 text-lg md:text-xl font-medium rounded-lg hover:bg-blue-900 hover:border hover:border-white inline-block w-fit"
                 >
-                    Send an email
+                Send an email
                 </a>
+
             </div>
 
             {/* Right Section */}
