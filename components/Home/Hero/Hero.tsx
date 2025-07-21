@@ -32,8 +32,16 @@ const Hero = () => {
 
             </div>
             {/* Image */}
-            <div className='mx:auto block rounded-lg transition-all border-solid border-4 border-blue-900 overflow-hidden '>
-              <Image src={Baseinfo.profilepic} alt={'profile picture'} width={600} height={500}/>
+            <div className='mx:auto block rounded-lg transition-all border-solid border-4 border-blue-900 overflow-hidden'>
+              <div className="relative w-full h-[500px]">
+              <Image 
+                src={Baseinfo.profilepic} 
+                alt={'profile picture'} 
+                fill
+                style={{objectFit: 'cover'}}
+                className="w-full h-full"
+              />
+              </div>
             </div>
         </div>
       </div>

@@ -1,7 +1,7 @@
 export const Baseinfo={
     name:"Veena",
     description:"I am a developer who blends code and creativity to craft real-world impact. Whether I’m building scalable websites, participating in hackathons, or leading tech clubs — I bring curiosity, innovation and code together to solve meaningful problems. With a strong grip on web dev, DSA, and emerging tools like AI, I’m constantly exploring new challenges and innovations. Reach out to me!",
-    profilepic:"/assets/hero3.jpeg",
+    profilepic:"/assets/hero8.jpg",
 };
 
 export const aboutInfo=[
