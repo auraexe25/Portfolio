@@ -21,7 +21,7 @@ const Hero = () => {
                 {/* Buttons */}
                 <div className='flex flex-col md:flex-row space-x-6 '> 
                 <button className='mt-8 md:px-10 md:py-3.5 px-8 py-1.5 bg-[#6d5efb] font-body font-semibold border-2 border-[#6d5efb] text-white text-sm md:text-lg rounded-lg transition-all duration-200 hover:bg-blue-900  hover:box-border hover:border-2 hover:border-white hover:transition flex items-center justify-center'>
-                  <a href="https://drive.google.com/file/d/12EpdRmg2c5XmXmh2xFteEPR6HIuJ-0nh/view?usp=drive_link" target="_blank" rel="noopener noreferrer" className="w-full h-full flex items-center justify-center">
+                  <a href="https://drive.google.com/file/d/12EpdRmg2c5XmXmh2xFteEPR6HIuJ-0nh/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="w-full h-full flex items-center justify-center">
                     <span>Download CV</span>
                   </a>
                 </button>
