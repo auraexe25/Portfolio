@@ -141,7 +141,7 @@ export const projectinfo=[
         description:"An intelligent workflow builder that makes creating and managing continuous integration and continuous delivery pipelines effortless. With an intuitive drag-and-drop interface, repository analysis, and multi-platform support, it streamlines the DevOps process for development teams of all sizes",
         image:"/assets/projects/cicd.png",
         purl:"https://github.com/auraexe25/CI-CD-Genie",
-        durl:"https://ci-cd-genie.vercel.app/auth/signin",
+        durl:"https://ci-cd-genie.vercel.app",
 
     },
 
